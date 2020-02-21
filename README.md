@@ -26,7 +26,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-DO NOT have a different instructor for a 'part 2' assignment. Also, it might be best to try to edit out mistakes here and there.
+DO NOT have a different instructor for a 'part 2' assignment. Also, it might be best to try to edit out mistakes here and there to make a shorter video
 
 
 
